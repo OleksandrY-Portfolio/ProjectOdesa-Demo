@@ -29,8 +29,8 @@ It provides an up-to-date events calendar, an interactive institutions map, onli
 - Data stored in Azure Cosmos DB — flexible schema optimized for read and search operations
 - Short-term queries and responses cached locally on the server using IMemoryCache
 
-## 👥 Команда
-| Роль | Учасник |
+## 👥 Team
+| Role | Member |
 |------|----------|
 | Scrum Master | Project Manager | Khrystyna Cherkezian |
 | UI/UX Designer | Inna Nochovkina  |
