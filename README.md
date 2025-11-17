@@ -1,4 +1,4 @@
-# 🏙️ "Odesa for Children" – Information Portal
+# "Odesa for Children" – Information Portal
 
 **Project Goal:** to create a unified online resource that brings together information about education, healthcare, leisure, and child development in Odesa.
 
